@@ -3,9 +3,9 @@
 # values have a default.
 
 # -- General configuration --
-project = 'Sphinx On Netlify'
-copyright = '2021, Seo Wings'
-author = 'seowings'
+project = 'Science For All'
+copyright = '2021, Pushkar'
+author = 'Pushkar'
 
 master_doc = 'index'
 version = 'latest'
@@ -21,7 +21,7 @@ sitemap_filename = "sitemap.xml"
 
 html_css_files = ['custom.css']
 html_js_files = ['custom.js']
-html_theme = 'alabaster'
+html_theme = 'furo'
 html_baseurl = 'https://sphinx-netlify.netlify.app/'
 html_theme_options = {
     'current_version': version,
