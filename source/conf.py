@@ -3,8 +3,8 @@
 # values have a default.
 
 # -- General configuration --
-project = 'Science For All'
-copyright = '2021, Pushkar'
+project = '2D Semiconductors'
+copyright = '2024, Pushkar'
 author = 'Pushkar'
 
 master_doc = 'index'
@@ -21,7 +21,7 @@ sitemap_filename = "sitemap.xml"
 
 html_css_files = ['custom.css']
 html_js_files = ['custom.js']
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_baseurl = 'https://sphinx-netlify.netlify.app/'
 html_theme_options = {
     'current_version': version,
@@ -29,7 +29,7 @@ html_theme_options = {
 }
 html_context = {
   'display_github': True,
-  'github_user': 'seowings',
+  'github_user': 'dpshkr',
   'github_repo': 'sphinx-netlify',
   'github_version': 'main/source/'
 }
