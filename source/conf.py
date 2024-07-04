@@ -30,7 +30,7 @@ html_theme_options = {
 html_context = {
   'display_github': True,
   'github_user': 'dpshkr',
-  'github_repo': 'sphinx-netlify',
+  'github_repo': 'science-book',
   'github_version': 'main/source/'
 }
 
