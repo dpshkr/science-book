@@ -5,14 +5,14 @@
 
 Welcome to Science For All's documentation!
 ===========================================
+.. image:: https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png
+   :width: 200px
+   :alt: CC-BY 4.0 license logo.
+This book is licensed under `Creative Commons Attribution 4.0 International (CC-BY) license <https://creativecommons.org/licenses/by/4.0/>`_.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   license
-   foreword
-   sound-and-acoustics/index
 
 
 
