@@ -16,7 +16,7 @@ We know that the first term depends only on the geometry of the conductor and he
 .. math ::
   \delta \phi_e = \frac{\delta \sigma_e}{C_0}
 
-where :math:`C_0` is the electrostatic capacitance per unit area and :math: `\delta \sigma_e` 
+where :math:`C_0` is the electrostatic capacitance per unit area and :math:`\delta \sigma_e` 
 is the change in charge concentration per unit area (:math:`\delta \sigma_e = e\delta N_e`).
 Similarly, the second term can be refactored as 
 
