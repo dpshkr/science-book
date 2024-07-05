@@ -50,13 +50,25 @@ In the above equation, we know all three quantities, except :math:`\delta E_F`, 
 .. math ::
 	\delta E_F = e\delta \phi_e + \frac{\delta n}{AD_0}
 
-In the above equation, we will club :math:`\delta n / A` into  `\delta \sigma_e` - the change in electron concentration rather than electron number.
+In the above equation, we will club :math:`\delta n / A` into  :math:`\delta \sigma_e` - the change in electron concentration rather than electron number.
 
 .. math ::
-	\delta E_F = e\delta \phi_e + \frac{\delta \signa_e}{D_0}
+	\delta E_F = e\delta \phi_e + \frac{\delta \sigma_e}{D_0}
 	
 As you can see, the change in Fermi level also depends on material properties, through its dependence on :math:`D_0`.
-In the case of extremely high density of states (:math:`D_0 \to \infty`), :math:`\delta E_F` can be approximated as :math:`\delta \phi_e`.
+In the case of extremely high density of states (:math:`D_0 \to \infty`), :math:`\delta E_F` can be approximated as :math:`e\delta \phi_e`.
 
 .. math ::
-	\delta E_F \approx \delta \phi_e \ (D_0 \to \infty)
+	\delta E_F \approx e\delta \phi_e \ (D_0 \to \infty)
+
+We know from elementary statistical and semiconductor physics that we can only measure the Fermi energy, also known as electrochemical potential.
+It is impossible to measure or use the electrostatic potential alone [#]_. 
+A more accurate definition of capacitance is given by 
+
+.. math::
+	C = e\frac{\delta q}{\delta E_F}
+
+If the density of states is very large, as with a typical metal, the above definition reduces to the one given in classical physics.
+However, there can be a significant deviation from classical physics for low-DOS materials, as with typical low-dimensional materials.
+
+.. [#] A classic example of this is the p-n junction diode. Although the junction has built-in electrostatic potential due to charge separation, we cannot measure it with a voltmeter. 
