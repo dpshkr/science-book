@@ -50,10 +50,10 @@ In the above equation, we know all three quantities, except :math:`\delta E_F`, 
 .. math ::
 	\delta E_F = e\delta \phi_e + \frac{\delta n}{AD_0}
 
-In the above equation, we will club :math:`\delta n / A` into  :math:`\delta \sigma_e` - the change in electron concentration rather than electron number.
+In the above equation, we will club :math:`\delta n / A` into  :math:`\delta \N_e` - the change in electron concentration rather than electron number.
 
 .. math ::
-	\delta E_F = e\delta \phi_e + \frac{\delta \sigma_e}{D_0}
+	\delta E_F = e\delta \phi_e + \frac{\delta \N_e}{D_0}
 	
 As you can see, the change in Fermi level also depends on material properties, through its dependence on :math:`D_0`.
 In the case of extremely high density of states (:math:`D_0 \to \infty`), :math:`\delta E_F` can be approximated as :math:`e\delta \phi_e`.
