@@ -14,7 +14,7 @@ additional energy to deposit them in the higher energy unfilled states.
 We know that the first term depends only on the geometry of the conductor and hence can be represented by the classical equation - 
 
 .. math ::
-  \delta \phi_e = \frac{e\delta \sigma_e}{C_0)
+  \delta \phi_e = \frac{e\delta \sigma_e}{C_0}
 
 where :math:`C_0` is the electrostatic capacitance per unit area and :math: `\delta \sigma_e` 
 is the change in electron concentration per unit area (*not* the charge concentration).
