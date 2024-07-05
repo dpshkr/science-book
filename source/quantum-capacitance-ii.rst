@@ -5,7 +5,7 @@ In the previous section, we have derived the following formula for change in ele
 for a 2D conductor/semiconductor on the addition of additional electron charge density -
 
 .. math ::
-  \delta E_F = e\delta \phi_e + \frac{\delta \N_e}{D_0}
+  \delta E_F = e\delta \phi_e + \frac{\delta N_e}{D_0}
 
 The first term is due to Coulomb forces, while the second is due to the Pauli exclusion principle.
 The Pauli exclusion principle prohibits us from depositing the new electrons into filled electron states and hence provide 
