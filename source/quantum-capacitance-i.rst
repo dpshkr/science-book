@@ -3,6 +3,10 @@ Quantum Capacitance
 
 Consider an uncharged 2D conductor (or semiconductor) of area :math:`A`. 
 The band diagram of the conductor is shown below.
+
+.. figure::
+	/_static/images/quantum-capacitance.png
+
 The conductor has a Fermi level at :math:`E_F` and first sub-band energy at :math:`E_0`.
 We will assume the conductor to be at 0 K (only for mathematical convenience). As you will see, the analysis is easily generalized to higher temperatures.
 Recall that at 0 K, all the states below the Fermi level are filled,
