@@ -19,7 +19,7 @@ captured by the geometrical/electrostatic capacitance.
 However, we must remember that the second electron cannot be put at the level :math:`E_1`.
 This follows from the famous Pauli exclusion principle [#]_.
 Rather, it has to go to the energy level :math:`E_2`. 
-Therefore, to put a second electron, we must provide an additional energy given by $E_2 - E_1$ to the second electron
+Therefore, to put a second electron, we must provide an additional energy given by :math:`E_2 - E_1` to the second electron
 (in addition to the electrostatic potential energy).
 This is the origin of quantum capacitance.
 The additional energy required (compared to only electrostatic energy) is captured by quantum capacitance.
