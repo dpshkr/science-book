@@ -2,3 +2,4 @@ sphinx
 furo
 sphinxext-opengraph
 sphinx-rtd-theme
+pydata-sphinx-theme
