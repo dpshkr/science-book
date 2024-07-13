@@ -4,9 +4,9 @@ Geometrical Capacitance
 In classical electromagnetics, we know that the capacitance of a conductor (or a semiconductor) [#]_ is defined as 
 
 .. math::
-  C_0 = \frac{\delta q}{\delta \phi}
+  C_0 = \frac{\delta q}{\delta \phi_e}
 
-where :math:`\delta q` is the charge put on the conductor and :math:`\delta \phi` is the change in the resulting electrostatic potential.
+where :math:`\delta q` is the charge put on the conductor and :math:`\delta \phi_e` is the change in the resulting electrostatic potential.
 For example, consider a spherical conductor of radius :math:`R`.  
 If we charge `\delta q` on the conductor, its electrostatic potential changes by :math:`\delta \phi = \frac{\delta q}{4\pi\epsilon_0}`.
 This implies that its capacitance is :math:`C_0 = 4\pi\epsilon_0R`.
