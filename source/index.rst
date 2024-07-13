@@ -13,12 +13,8 @@ This book is licensed under `Creative Commons Attribution 4.0 International (CC-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   energy-levels-in-2d
-   density-of-states-2d
-   quantum-capacitance-i
-   quantum-capacitance-ii
-   quantum-capacitance-device
+   
+   quantum-capacitance/index
 
 
 
