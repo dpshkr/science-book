@@ -26,3 +26,7 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+html_theme_options = {
+    'body_text_align':'justify',
+    'show_related': True,
+}
