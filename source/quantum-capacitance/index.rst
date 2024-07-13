@@ -8,4 +8,3 @@ In this chapter we will learn about quantum capacitance.
    :caption: Sections:
 
   a-review-of-capacitance
-   q
