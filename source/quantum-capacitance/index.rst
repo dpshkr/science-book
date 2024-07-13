@@ -9,3 +9,4 @@ In this chapter we will learn about quantum capacitance.
    
    geometrical-capacitance
    quantum-capacitance
+   redefining-capacitance
