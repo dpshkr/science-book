@@ -7,4 +7,4 @@ In this chapter we will learn about quantum capacitance.
    :maxdepth: 1
    :caption: Sections:
 
-  a-review-of-capacitance
+  geometrical-capacitance
