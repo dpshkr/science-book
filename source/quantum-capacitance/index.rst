@@ -8,3 +8,4 @@ In this chapter we will learn about quantum capacitance.
    :caption: Sections:
    
    geometrical-capacitance
+   quantum-capacitance
