@@ -52,6 +52,6 @@ Classical physics assumes a very high density of states.
 In such a situation, we can see that the system's capacitance is nearly the same as that of its geometrical/electrostatic capacitance.
 
 .. math::
-  C = e\frac{\delta q}{\delta \E_F} \ approx \frac{\delta q}{\phi_e} = C_0
+  C = e\frac{\delta q}{\delta E_F} \ approx \frac{\delta q}{\phi_e} = C_0
 
 
