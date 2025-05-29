@@ -5,10 +5,16 @@
 
 Welcome to Science For All's documentation!
 ===========================================
+
+License
+--------
+
 .. image:: http://upload.wikimedia.org/wikipedia/commons/e/e1/CC_BY_icon.svg
    :alt: CC-BY 4.0 license logo.
 
 This book is licensed under `Creative Commons Attribution 4.0 International (CC-BY) license <https://creativecommons.org/licenses/by/4.0/>`_.
+
+
 
 .. toctree::
    :maxdepth: 2
